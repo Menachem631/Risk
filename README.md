@@ -1,1 +1,1 @@
-In this project, I calculate the probabilities of winning individual dice battles in the game of Risk. I wrote a companion article on Towards Data Science, explaining the math.
+In this project, I calculate the probabilities of winning individual dice battles in the game of Risk. I wrote a companion article on Towards Data Science, explaining the math: https://medium.com/towards-data-science/the-math-behind-risk-part-1-35ed4e1f542d
